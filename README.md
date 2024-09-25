@@ -3,5 +3,4 @@
 ## Part1
 this is my quiz
 
-# An image from my readmeImages folder
-![An image of the example](readmeImages.1_003.png)
+![An image of the example](readmeImages/1_003.png)
