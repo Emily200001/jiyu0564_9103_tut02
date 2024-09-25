@@ -8,4 +8,4 @@ this is my quiz
 ### Part2
 
 Link to example code
-![Link Text](https://p5js.org/examples/repetition-noise/)
+(https://p5js.org/examples/repetition-noise/)
