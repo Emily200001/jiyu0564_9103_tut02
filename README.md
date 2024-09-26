@@ -9,7 +9,7 @@ Image1
 Image2
 ![An image of the example](readmeImages/1_003.png)
 
-### Part2: Coding Technique Exploration
+## Part2: Coding Technique Exploration
 I can achieve the image in part 1 by using the Perlin noise in p5.js. Perlin noise produces smooth, gradual transitions between values instead of sharp, jagged ones. This is great for creating naturally flowing patterns, like the mountains and smooth wavy dots in part 1. Using noise() can generate smooth, natural changes that affect the position and size of objects in the grid, achieving the visual effect I want.
 
 Screenshots of coding technology
